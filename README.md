@@ -1,2 +1,2 @@
 # LilyPondScores
-A repo of various musical scores made with LilyPond
+A repository of various musical scores made with LilyPond
